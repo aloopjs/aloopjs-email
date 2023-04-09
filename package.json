@@ -1,0 +1,28 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.9.1"
+  },
+  "name": "@aloopjs/aloopjs-email",
+  "description": "Send email module using aloopjs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloopjs/aloopjs-email.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "aloopjs",
+    "aloopjs-email",
+    "email"
+  ],
+  "author": "AloopIO",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aloopjs/aloopjs-email/issues"
+  },
+  "homepage": "https://github.com/aloopjs/aloopjs-email#readme"
+}
