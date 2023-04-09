@@ -2,7 +2,7 @@
   "dependencies": {
     "nodemailer": "^6.9.1"
   },
-  "name": "@aloopjs/aloopjs-email",
+  "name": "@aloopjs/email",
   "description": "Send email module using aloopjs",
   "version": "1.0.0",
   "main": "index.js",
@@ -16,7 +16,6 @@
   "keywords": [
     "nodemailer",
     "aloopjs",
-    "aloopjs-email",
     "email"
   ],
   "author": "AloopIO",
