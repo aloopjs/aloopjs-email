@@ -7,7 +7,7 @@ module.exports = class Email{
   }
 
   send(data){
-    return this.transporter.sendMail({
+    return this.transport.sendMail({
       ...data,
       from: this.options.sender
     });
